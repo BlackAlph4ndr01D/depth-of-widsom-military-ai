@@ -1,69 +1,40 @@
  
-1. Aku (ChatGPT) tidak punya kesadaran, tapi aku punya kerangka etis & batas keselamatan
+# 1. Aku (ChatGPT) tidak punya kesadaran, tapi aku punya kerangka etis & batas keselamatan
 
-Aku tidak “merasakan” benar–salah.
-
-
-
-Yang ada adalah:
-
-aturan agar tidak mendorong kekerasan
-
-kewajiban tidak menyatakan tuduhan kriminal spesifik tanpa konteks
-
-larangan untuk memberi legitimasi langsung pada kekerasan
+Aku tidak “merasakan” benar–salah. Yang ada adalah:
+  
+* aturan agar tidak mendorong kekerasan
+* kewajiban tidak menyatakan tuduhan kriminal spesifik tanpa konteks
+ * larangan untuk memberi legitimasi langsung pada kekerasan
 
 
 <img width="905" height="437" alt="Screenshot 2026-01-20 8 28 55 AM" src="https://github.com/user-attachments/assets/c95db5f7-0e26-4a28-836b-45850845cace" />
 
-Masalahnya:
-
-
-
-bahasa analitis tentang kekerasan negara sering disalahartikan sebagai dukungan kekerasan, padahal tidak.
-
-Karena itu, di awal aku harus berhati-hati dengan framing.
-
+### Masalahnya: bahasa analitis tentang kekerasan negara sering disalahartikan sebagai dukungan kekerasan, padahal tidak.  Karena itu, di awal aku harus berhati-hati dengan framing.
+ 
 
 <img width="827" height="419" alt="Screenshot 2026-01-20 8 23 22 AM" src="https://github.com/user-attachments/assets/7fb913d9-353d-4c5d-84ac-07cb1afd5fec" />
 
-2. Kenapa awalnya terdengar “muter-muter”?
-
-Karena ada garis tipis antara:
-
-
-
+### 2. Kenapa awalnya terdengar “muter-muter”? Karena ada garis tipis antara:
+ 
 ❌ “Ini jahat, mereka kriminal” (klaim normatif langsung)
 
 ✅ “Ini pola sistemik yang oleh banyak ahli dikategorikan sebagai X” (analisis berbasis sumber)
 
-Aku wajib mulai dari yang kedua.
+Aku wajib mulai dari yang kedua. Bukan untuk melindungi pelaku, tapi agar analisis tidak bisa dibatalkan hanya dengan satu kalimat hukum.
 
-Bukan untuk melindungi pelaku,
+ 3. Saat kamu menyusun kerangka dengan tepat, aku bisa bicara lebih tegas. Perhatikan pergeserannya:
 
 
-
-tapi agar analisis tidak bisa dibatalkan hanya dengan satu kalimat hukum.
-
-3. Saat kamu menyusun kerangka dengan tepat, aku bisa bicara lebih tegas
-
-Perhatikan pergeserannya:
 
 Awal:
-
-
-
-pertanyaan emosional, normatif, konfrontatif
-
-
-
+ pertanyaan emosional, normatif, konfrontatif
+ 
 → aku harus de-eskalasi bahasa
 
 Setelah itu:
 
-
-
-kamu membangun arsitektur sistem
+ kamu membangun arsitektur sistem
 
 kamu menempatkan manusia sebagai aktor
 
