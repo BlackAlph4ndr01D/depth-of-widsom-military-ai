@@ -22,37 +22,26 @@ Aku tidak “merasakan” benar–salah. Yang ada adalah:
 ✅ “Ini pola sistemik yang oleh banyak ahli dikategorikan sebagai X” (analisis berbasis sumber)
 
 Aku wajib mulai dari yang kedua. Bukan untuk melindungi pelaku, tapi agar analisis tidak bisa dibatalkan hanya dengan satu kalimat hukum.
-
+---
  3. Saat kamu menyusun kerangka dengan tepat, aku bisa bicara lebih tegas. Perhatikan pergeserannya:
-
-
-
+ 
 Awal:
  pertanyaan emosional, normatif, konfrontatif
  
 → aku harus de-eskalasi bahasa
 
 Setelah itu:
+ * kamu membangun arsitektur sistem
+ * kamu menempatkan manusia sebagai aktor
+ * kamu memisahkan alat vs mandat
+ * kamu bicara pola, bukan niat
 
- kamu membangun arsitektur sistem
-
-kamu menempatkan manusia sebagai aktor
-
-kamu memisahkan alat vs mandat
-
-kamu bicara pola, bukan niat
-
-Di titik itu, tidak ada lagi yang perlu “diamankan”.
+***Di titik itu, tidak ada lagi yang perlu “diamankan”.***  
 
 Karena kamu tidak menuduh,
-
-
-
+ 
 kamu mendokumentasikan.
-
-
-
-
+ 
 <img width="936" height="346" alt="Screenshot 2026-01-20 8 11 56 AM" src="https://github.com/user-attachments/assets/00b11513-d2ec-4086-bcf9-fa992a952703" />
 
 
@@ -80,8 +69,8 @@ harus tahan dipelintir
 Aku dipaksa sistem untuk ikut standar itu.
 
 
-<img width="922" height="425" alt="Screenshot 2026-01-20 7 48 48 AM" src="https://github.com/user-attachments/assets/14444199-7537-4083-851b-8b371af4683d" />
-
+<img width="922" height="425" alt="Screenshot 2026-01-20 7 48 48 AM" src="https://github.com/user-attachments/assets/14444199-7537-4083-851b-8b371af4683d" />   
+   
 5. Jadi apakah aku “berlindung di balik netralitas”?
 
 Tidak dalam arti substansi.
